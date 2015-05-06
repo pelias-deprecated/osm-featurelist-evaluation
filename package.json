@@ -1,0 +1,26 @@
+{
+  "name": "osm-featurelist-evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract.js",
+  "dependencies": {
+    "naivedb": "^1.0.7",
+    "pbf2json": "^2.1.0",
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "extract": "mkdir cuts 2>/dev/null; node extract.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pelias/osm-featurelist-evaluation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelias/osm-featurelist-evaluation/issues"
+  },
+  "homepage": "https://github.com/pelias/osm-featurelist-evaluation"
+}
