@@ -1,0 +1,594 @@
+node	42764076	Botanical Garden
+node	42841012	Laurelton
+node	66331480	Hoboken Terminal
+node	100515086	Grand Central Terminal
+node	103856238	Hoboken Terminal
+node	103857995	Hoboken Terminal
+node	103858028	Hoboken Terminal
+node	103860550	Hoboken Terminal
+node	103885536	Hoboken Terminal
+node	103885770	Hoboken Terminal
+node	104235981	Ford Avenue at Webb Drive
+node	104244557	Green Street at Tyler Avenue
+node	104260434	Inman Avenue at West Drive
+node	104270735	Grove Avenue at New Dover Road
+node	104281971	Woodbridge Rail Station
+node	104310476	Grove Avenue at Oak Tree Road
+node	104319256	Woodbridge Corporate Center
+node	213964848	Brentwood
+node	254728787	Philipse Manor
+node	261350645	Merillon Avenue
+node	261366728	Lawrence
+node	261434808	Gibson
+node	261434821	Hewlett
+node	261434830	Woodmere
+node	261434852	Lynbrook
+node	261434912	Baldwin
+node	261435092	Oyster Bay
+node	261435126	New Hyde Park
+node	261435190	West Hempstead
+node	261435361	Farmingdale
+node	261435433	Syosset
+node	261435528	Garden City
+node	261435563	Nassau Boulevard
+node	261435669	Mineola
+node	261435736	Roslyn
+node	261435750	Hicksville
+node	261435822	Centre Avenue
+node	280869187	Forest Avenue
+node	280990284	Middle Village - Metropolitan Avenue
+node	280990367	Fresh Pond Road Station
+node	280990453	Forest Avenue Station
+node	280990845	Seneca Avenue Station
+node	299292383	Mountain Station
+node	317500359	Woodbridge Center Drive at Woodbridge Terrace
+node	317500520	Woodbridge Center Drive at Plaza Drive
+node	324360750	Floral Park
+node	330297354	Lakeview
+node	335791144	Inwood
+node	359487188	Kings Park
+node	591997657	42nd Street-Grand Central (S,4,5,6,7)
+node	597712249	Atlantic Terminal
+node	597828361	East New York
+node	602427372	Amboy Avenue at Main Street
+node	631168807	Babylon
+node	631979103	Bay Shore
+node	634606049	Locust Valley
+node	638015859	Inwood
+node	638015875	Lawrence
+node	638015907	Woodmere
+node	638015925	Hewlett
+node	638016006	Gibson
+node	638167088	Valley Stream
+node	638590631	Island Park
+node	638660372	Laurelton
+node	638660373	Laurelton
+node	638660456	Rosedale
+node	638660480	Rosedale
+node	638660482	Rosedale
+node	752201726	Locust Valley
+node	759886847	Roslyn
+node	764759257	Kings Park
+node	766201999	Syosset
+node	766251658	Hicksville
+node	766251683	Hicksville
+node	766274302	Mineola
+node	767274028	Merillon Avenue
+node	767318373	New Hyde Park
+node	777906174	New Rochelle
+node	892545096	White Plains
+node	892564972	Williams Bridge
+node	892564973	Woodlawn
+node	894772637	Mount Vernon East
+node	894772638	Mount Vernon East
+node	894775202	Pelham
+node	894775547	Pelham
+node	895354510	New Rochelle
+node	924624177	Tarrytown
+node	975877963	Bay Shore
+node	1005265619	Glen Street
+node	1005265630	Glen Cove
+node	1011407261	72nd Street (1,2,3)
+node	1020745563	Malverne
+node	1020745594	Lakeview
+node	1102557483	Brentwood
+node	1270745409	Ninth Avenue Station
+node	1331281677	East Rockaway
+node	1411748132	St. Albans
+node	1412723461	Garden City
+node	1598964172	Westwood
+node	1654997709	Central Avenue Station
+node	1657626193	Botanical Garden
+node	1687516979	Knickerbocker Avenue Station
+node	1905015721	Myrtle Avenue
+node	1912138142	Grand Central Terminal
+node	1912138145	Grand Central Terminal
+node	1912138148	Grand Central Terminal
+node	1947961407	Busch Campus Center
+node	2051677434	Myrtle Avenue Station
+node	2054217379	Myrtle-Wyckoff Avenues Station
+node	2054217606	Ninth Avenue (Upper)
+node	2070743974	Bellerose
+node	2195211853	West Hempstead
+node	2240574761	Hoboken Terminal
+node	2240574815	Hoboken Terminal
+node	2240574830	Hoboken Terminal
+node	2240574920	Hoboken Terminal
+node	2240574930	Hoboken Terminal
+node	2240575008	Hoboken Terminal
+node	2240575441	Hoboken Terminal
+node	2240575458	Hoboken Terminal
+node	2240575530	Hoboken Terminal
+node	2240575566	Hoboken Terminal
+node	2240575579	Hoboken Terminal
+node	2269502353	Country Life Press
+node	2274515086	Q9
+node	2274515214	Q9
+node	2274515829	Q9
+node	2274515984	Q9
+node	2274516044	Q9
+node	2274516045	Q9
+node	2320854162	Darien
+node	2320854189	Darien
+node	2343111495	Ninth Avenue (Upper)
+node	2478086894	Q30, Q31
+node	2478086896	Q43
+node	2478086897	Q6
+node	2478096543	Q9
+node	2657922194	Q9
+node	2658669062	Metropark Rail Station
+node	2660497367	Q9
+node	2660517546	Q40
+node	2670962999	Q43
+node	2670963000	Q43
+node	2670963002	Q43
+node	2670963003	Q43
+node	2670963018	Q43
+node	2671740821	Q6
+node	2671740823	Q60
+node	2671740826	Q6, Q60
+node	2671740829	Q6, Q60
+node	2671740835	Q6, Q60
+node	2671740844	Q9
+node	2671740848	Q6, Q8, Q9, Q40, Q60
+node	2671740851	Q20A/B, Q44
+node	2671740853	Q6
+node	2671740857	Q9
+node	2671740859	Q58
+node	2671740862	Q43
+node	2671740865	Q6, Q8, Q9, Q24, Q30
+node	2671740868	Q6, Q9
+node	2671740874	Q25, Q34, Q65
+node	2674971984	Q9
+node	2675393111	Q9
+node	2703705536	Q8, Q41, Q60
+node	2705018955	JFK Medical Center
+node	2748788924	Q9
+node	2748788925	Q9
+node	2748788926	Q6
+node	2748788927	Q85, Q111, Q112, Q113
+node	2771355441	Q83,Q83 LTD, Q110, Q111, Q112, Q113
+node	2778411541	Q31, Q41, Q54, Q56
+node	2854432519	Q24, Q54, Q56
+node	2954866552	East New York
+node	2980361047	Long Beach
+node	2980361820	Long Beach
+node	2980361824	Long Beach
+node	2980361986	Long Beach
+node	2982048921	Island Park
+node	2982048922	Island Park
+node	2982048923	Oceanside
+node	2982048924	Oceanside
+node	2984029286	East Rockaway
+node	2984029317	Lynbrook
+node	2984029752	Centre Avenue
+node	2984029787	Lynbrook
+node	2984030453	Valley Stream
+node	2984030473	Valley Stream
+node	2984030602	East Rockaway
+node	2984030693	Lynbrook
+node	2984030785	Lynbrook
+node	2984030788	Centre Avenue
+node	2985255262	Locust Manor
+node	2985255263	Locust Manor
+node	2985446406	Jamaica
+node	2985446408	Jamaica
+node	2985446412	Jamaica
+node	2985446419	Jamaica
+node	2985446429	Jamaica
+node	2985446431	Jamaica
+node	2985446538	Jamaica
+node	2985446541	Jamaica
+node	2986319984	Nostrand Avenue
+node	2986320002	Nostrand Avenue
+node	2986320013	East New York
+node	2987751322	Atlantic Terminal
+node	2987758045	Atlantic Terminal
+node	2987758083	Atlantic Terminal
+node	2987986690	Atlantic Terminal
+node	2987986705	Atlantic Terminal
+node	2987987141	Atlantic Terminal
+node	2992648389	Boland's Landing
+node	2992648784	Boland's Landing
+node	3015668091	Fresh Pond Road
+node	3015668092	Fresh Pond Road
+node	3015668093	Middle Village - Metropolitan Avenue
+node	3015668094	Middle Village - Metropolitan Avenue
+node	3017396456	Forest Avenue
+node	3017396457	Myrtle-Wyckoff Avenues
+node	3017396458	Myrtle-Wyckoff Avenues
+node	3017396459	Seneca Avenue
+node	3017396460	Seneca Avenue
+node	3020995522	Broadway
+node	3020995523	Broadway
+node	3020995524	Central Avenue
+node	3020995525	Central Avenue
+node	3020995526	Knickerbocker Avenue
+node	3020995527	Knickerbocker Avenue
+node	3020995528	Myrtle Avenue
+node	3020995529	Myrtle Avenue
+node	3026462196	Bridge - Jay Streets
+node	3026462197	Bridge - Jay Streets
+node	3026462199	Court Street - Myrtle Avenue
+node	3026462200	Court Street - Myrtle Avenue
+node	3026462202	Franklin Avenue
+node	3026462203	Franklin Avenue
+node	3026462204	Fulton Ferry Historic District
+node	3026462205	Fulton Ferry Historic District
+node	3026462208	Grand Avenue
+node	3026462209	Grand Avenue
+node	3026462211	Navy Street
+node	3026462212	Navy Street
+node	3026462214	Nostrand Avenue
+node	3026462215	Nostrand Avenue
+node	3026462217	Sands Street
+node	3026462218	Sands Street
+node	3026462219	Sands Street
+node	3026462220	Sands Street
+node	3026462221	Sands Street
+node	3026462222	Sands Street
+node	3026462223	Sands Street
+node	3026462224	Sands Street
+node	3026462226	Sumner Avenue
+node	3026462227	Sumner Avenue
+node	3026462229	Tompkins Avenue
+node	3026462230	Tompkins Avenue
+node	3026462232	Vanderbilt Avenue
+node	3026465033	Vanderbilt Avenue
+node	3026465035	Washington Avenue
+node	3026465036	Washington Avenue
+node	3039734878	Atlantic Avenue
+node	3039734879	Atlantic Avenue
+node	3039734881	Fulton Street
+node	3039734882	Fulton Street
+node	3039734883	Ninth Avenue (Lower)
+node	3039734884	Ninth Avenue (Lower)
+node	3039734885	Ninth Avenue (Lower)
+node	3039734886	Ninth Avenue (Upper)
+node	3039734888	Ninth Street
+node	3039734889	Ninth Street
+node	3039734891	Saint Marks Avenue
+node	3039734892	Saint Marks Avenue
+node	3039734894	Third Street
+node	3039734895	Third Street
+node	3039734897	Union Street
+node	3039734898	Union Street
+node	3039737084	16th Street
+node	3039737085	16th Street
+node	3039737087	20th Street
+node	3039737088	20th Street
+node	3039737090	25th Street
+node	3039737091	25th Street
+node	3256112986	Stamford
+node	3260731534	Yonkers
+node	3260731535	Yonkers
+node	3260731536	Yonkers
+node	3260731537	Yonkers
+node	3260938295	Ardsley-on-Hudson
+node	3260938296	Ardsley-on-Hudson
+node	3273737512	Spuyten Duyvil
+node	3273737513	Spuyten Duyvil
+node	3273737514	Spuyten Duyvil
+node	3273737560	Riverdale
+node	3273739161	Riverdale
+node	3273751855	Marble Hill
+node	3273751856	Marble Hill
+node	3276176474	Hastings-on-Hudson
+node	3276176475	Hastings-on-Hudson
+node	3276188634	Dobbs Ferry
+node	3276188635	Dobbs Ferry
+node	3276199952	Irvington
+node	3276199953	Irvington
+node	3278932319	67th St / Lexington Ave
+node	3278932320	67th St / Lexington Ave
+node	3301268827	Babylon
+node	3301268828	Babylon
+node	3301268829	Babylon
+node	3306231018	Farmingdale
+node	3309954363	Hicksville
+node	3313384425	Deer Park
+node	3313384426	Deer Park
+node	3316041299	Syosset
+node	3329545165	Valhalla
+node	3329545166	Valhalla
+node	3329936805	Valhalla
+node	3331085532	Jamaica
+node	3331085533	Jamaica
+node	3340955553	New Rochelle
+node	3341053320	Woodlawn
+node	3341053328	Woodlawn
+node	3341053347	Williams Bridge
+node	3341053356	Williams Bridge
+node	3345223837	Rowayton
+node	3345223838	Rowayton
+node	3345223839	Stamford
+node	3345223840	Stamford
+node	3345223841	Stamford
+node	3345223842	Stamford
+node	3347894707	South Norwalk
+node	3347894708	South Norwalk
+node	3352633433	Glen Cove
+node	3353377908	Glen Street
+node	3354779547	Hempstead
+node	3354779548	Hempstead
+node	3354779549	Hempstead
+node	3354779550	Hempstead
+node	3354819180	Lakeview
+node	3355223946	Stewart Manor
+node	3355223947	Stewart Manor
+node	3355248863	Nassau Boulevard
+node	3355304903	Hewlett
+node	3357861630	Bellerose
+node	3357874358	Floral Park
+node	3357874359	Floral Park
+node	3357907918	Queens Village
+node	3357907919	Queens Village
+node	3359967108	Kings Park
+node	3360067112	Hollis
+node	3360067113	Hollis
+node	3367300709	Baldwin
+node	3367300710	Baldwin
+node	3369116796	Country Life Press
+node	3386300163	Tarrytown
+node	3386300164	Tarrytown
+node	3422042453	Harrows Gate
+node	3422042454	Parsonage Road at Lafayette Avenue
+way	26808027	Hoboken Terminal
+way	32946753	Roosevelt Island Tramway
+way	49200094	Newark Penn Station
+way	49434266	Farmingdale
+way	49641544	Babylon
+way	49940632	Locust Valley
+way	74922381	Hastings-on-Hudson
+way	74922386	Hastings-on-Hudson
+way	75069694	Spuyten Duyvil
+way	75069695	Spuyten Duyvil
+way	75845301	New Rochelle
+way	79230776	Tarrytown
+way	79231910	Tarrytown
+way	83207908	Roslyn
+way	86547374	Bay Shore
+way	94971790	Mineola
+way	94971833	Mineola
+way	127693188	Garden City
+way	127693190	Garden City
+way	127693191	Garden City
+way	134868537	Mountain Station
+way	141153932	Stamford
+way	141153935	Stamford
+way	141153939	Stamford
+way	141153946	Stamford
+way	141154014	Stamford Transportation Center
+way	157892405	Inwood
+way	157893167	Lawrence
+way	166551823	Riverdale
+way	166551827	Riverdale
+way	180345279	Marble Hill
+way	185684168	Floral Park
+way	185684170	Floral Park
+way	185684178	Floral Park
+way	187087597	Westfield Train Station
+way	187973490	Stewart Manor
+way	191843752	Marble Hill
+way	205219647	Woodbridge Station
+way	207282100	Irvington
+way	207282101	Ardsley-on-Hudson
+way	207282103	Irvington
+way	207282104	Ardsley-on-Hudson
+way	217645093	Hempstead
+way	217645094	Country Life Press
+way	217645097	Hempstead
+way	242351162	Van Cortlandt Park – 242nd Street
+way	265947358	Grand Central Terminal
+way	269286104	72nd Street Subway Station (IRT)
+way	283224143	Queens Village
+way	291975572	Westbound (1)
+way	291975578	Eastbound (2)
+way	293470646	Platform A
+way	293470649	Platform B
+way	294435593	Long Beach
+way	294435619	Platform 1
+way	294783123	Platform A
+way	294783126	Platform
+way	294783195	East Platform
+way	294783200	Platform 2
+way	294783202	West Platform
+way	294783205	Platform B
+way	294783240	West Platform
+way	294783271	East Platform
+way	294894156	Platform
+way	294900002	Platform B
+way	294900009	Platform D
+way	294900011	Platform E
+way	294900034	Platform C
+way	294900038	Platform A
+way	295122320	Platform A
+way	295122321	Platform C
+way	295122322	Platform B
+way	295571719	Platform
+way	298198808	Northbound
+way	298198812	Northbound
+way	298198815	Northbound
+way	298198818	Southbound
+way	298198821	Southbound
+way	298198824	Southbound
+way	299892115	Northbound
+way	299892131	Southbound
+way	315501360	Philipse Manor
+way	319635390	Yonkers
+way	319652846	Ardsley-on-Hudson
+way	320736264	Spuyten Duyvil
+way	320736271	Riverdale
+way	320737752	Marble Hill
+way	320912696	Hastings-on-Hudson
+way	320913750	Dobbs Ferry
+way	320913755	Dobbs Ferry
+way	320913756	Dobbs Ferry
+way	323326058	Babylon
+way	323853756	Farmingdale
+way	324266434	Hicksville
+way	324266435	Hicksville
+way	324266436	Hicksville
+way	324616919	Bay Shore
+way	324616920	Bay Shore
+way	324629711	Deer Park
+way	324629712	Deer Park
+way	324931269	Kings Park
+way	324931270	Kings Park
+way	324931278	Syosset
+way	324931279	Syosset
+way	326104850	238th Street (1)
+way	326104851	238th Street (1)
+way	326107996	231st Street (1)
+way	326107997	231st Street (1)
+way	326119845	207th Street (1)
+way	326119846	207th Street (1)
+way	326119847	215th Street (1)
+way	326119848	215th Street (1)
+way	326119849	Dyckman Street (1)
+way	326119850	Dyckman Street (1)
+way	326119859	Marble Hill – 225th Street
+way	326119860	Marble Hill – 225th Street
+way	326128239	Wakefield – 241st Street
+way	326134735	219th Street (2,5)
+way	326134736	219th Street (2,5)
+way	326134737	225th Street (2,5)
+way	326134738	225th Street (2,5)
+way	326134739	233rd Street (2,5)
+way	326134740	233rd Street (2,5)
+way	326134741	Nereid Avenue (2,5)
+way	326134742	Nereid Avenue (2,5)
+way	326136512	Allerton Avenue (2,5)
+way	326136513	Allerton Avenue (2,5)
+way	326136514	Bronx Park East (2,5)
+way	326136515	Bronx Park East (2,5)
+way	326136516	Burke Avenue (2,5)
+way	326136517	Burke Avenue (2,5)
+way	326136518	East 180 Street (2,5)
+way	326136521	East 180 Street (2,5)
+way	326136524	East Tremont Avenue (2,5)
+way	326136527	East Tremont Avenue (2,5)
+way	326136530	Gun Hill Road (2,5)
+way	326136533	Gun Hill Road (2,5)
+way	326136536	Pelham Parkway (2,5)
+way	326136540	Pelham Parkway (2,5)
+way	326138058	174th Street (2,5)
+way	326138060	174th Street (2,5)
+way	326138061	Freeman Street (2,5)
+way	326138062	Freeman Street (2,5)
+way	326138063	Intervale Avenue (2,5)
+way	326138064	Intervale Avenue (2,5)
+way	326138065	Jackson Avenue (2,5)
+way	326138066	Jackson Avenue (2,5)
+way	326138067	Prospect Avenue (2,5)
+way	326138068	Prospect Avenue (2,5)
+way	326138070	Simpson Street (2,5)
+way	326138073	Simpson Street (2,5)
+way	326324142	Valhalla
+way	326365794	Hunterspoint Avenue
+way	326464531	Jamaica
+way	327348979	New Rochelle
+way	327348984	New Rochelle
+way	327349038	Pelham
+way	327349041	Pelham
+way	327349043	Pelham
+way	327356410	Mount Vernon East
+way	327356413	Mount Vernon East
+way	327356414	Mount Vernon East
+way	327356430	Williams Bridge
+way	327356431	Williams Bridge
+way	327356436	Botanical Garden
+way	327356437	Botanical Garden
+way	327356438	Botanical Garden
+way	327715954	Darien
+way	327715955	Darien
+way	327715956	Darien
+way	327715964	Rowayton
+way	327715965	Rowayton
+way	327715966	Rowayton
+way	327715967	Stamford
+way	327715968	Stamford
+way	327715969	Stamford
+way	327972266	South Norwalk
+way	327972267	South Norwalk
+way	328011500	Brentwood
+way	328011501	Brentwood
+way	328011502	Brentwood
+way	328389612	Oyster Bay
+way	328442649	Oyster Bay
+way	328442692	Glen Cove
+way	328442693	Glen Cove
+way	328500532	Locust Valley
+way	328500533	Locust Valley
+way	328508629	Glen Street
+way	328508630	Glen Street
+way	328508631	Glen Street
+way	328508632	Roslyn
+way	328508633	Roslyn
+way	328660158	Hempstead
+way	328661276	West Hempstead
+way	328692790	Stewart Manor
+way	328692815	Nassau Boulevard
+way	328692816	Nassau Boulevard
+way	328692820	Nassau Boulevard
+way	328701182	Gibson
+way	328701183	Gibson
+way	328701184	Gibson
+way	328701185	Hewlett
+way	328701186	Hewlett
+way	328701187	Woodmere
+way	328701188	Woodmere
+way	328701189	Woodmere
+way	328701192	Far Rockaway
+way	328876883	Belmont
+way	328876884	Belmont
+way	328876885	Belmont
+way	328876891	Belmont
+way	328967553	New Hyde Park
+way	328967554	New Hyde Park
+way	328967555	New Hyde Park
+way	328967567	Mineola
+way	328967574	Merillon Avenue
+way	328967575	Merillon Avenue
+way	328967576	Merillon Avenue
+way	328967577	Bellerose
+way	328967581	Bellerose
+way	328972973	Queens Village
+way	328972974	Queens Village
+way	328972975	Queens Village
+way	328972976	Queens Village
+way	328972977	Queens Village
+way	329177728	Hollis
+way	329328681	Lawrence
+way	329328682	Lawrence
+way	329744702	Rockville Centre
+way	329780082	Inwood
+way	329780083	Inwood
+way	329780101	Westwood
+way	329780120	Malverne
+way	329780121	Malverne
+way	329780122	Lakeview
+way	329780123	Lakeview
+way	329780129	West Hempstead
+way	329784282	Baldwin
+way	334351262	El tren de la imaginación Colaboración

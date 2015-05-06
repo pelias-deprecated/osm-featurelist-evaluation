@@ -1,0 +1,748 @@
+node	357545544	Atlantic Basin
+node	357553940	City Island Harbor
+node	357557265	Dutch Kills
+node	357558473	English Kills
+node	357558517	Erie Basin
+node	357559418	Ferris Creek
+node	357562452	Great Kills Harbor
+node	357569828	Lower Harbor
+node	357572911	Navy Yard Basin
+node	357573213	New Rochelle Harbor
+node	357596969	Whale Creek
+node	357598956	East Branch
+node	357604636	East Basin
+node	357604789	West Basin
+node	357614579	Hague Basin
+node	357616840	Eleventh Street Basin
+node	357618671	Henry Street Basin
+node	357620562	Seventyninth Street Boat Basin
+node	357720896	Dundee Dam
+node	357721358	Englewood Boat Basin
+node	357722224	Furnace Road Dam
+node	357722693	Green Swamp Dam
+node	357727966	Rock Breakwater
+node	357733718	Wildwood Lake Dam
+node	357733722	Estling Lake Dam
+node	357733724	Cooks Pond Dam
+node	357733730	Rock Ridge Lake Dam
+node	357733732	Griffith Pond Dam
+node	357733736	Cedar Lake Dam
+node	357733739	Splitrock Pond Dam
+node	357733746	Siebert Pond Dam
+node	357733749	Durham Pond Dam
+node	357733753	Stickle Pond Dam
+node	357733756	Lake Juliet Dam
+node	357733759	Dixons Pond Dam
+node	357733764	Lake Valhalla Dam
+node	357733770	Patex Pond Dam
+node	357733774	Deer Pond Dam
+node	357733779	Sunset Lake Dam
+node	357733783	Boonton Reservoir Dam
+node	357733788	Crystal Lake Dam
+node	357733791	Birchwood Lake Dam
+node	357733794	Mountain Lake Dam
+node	357733798	Indian Lake Dam
+node	357733924	Orange Reservoir Dam
+node	357733928	Canoe Brook Dam
+node	357733977	Watchung Lake Dam
+node	357734107	Lake Telemark Dam
+node	357734131	Linden Number One Dam
+node	357734360	Oradell Reservoir Dam
+node	357734472	Manalapan Lake Dam
+node	357734492	Lake Lefferts Dam
+node	357734522	Poricy Dam
+node	357734532	Shadow Lake Dam
+node	357734668	Pocahontas Dam
+node	357734671	Speedwell Dam
+node	357734678	Mount Tabor Lake Dam
+node	357734682	Powder Mill Pond Dam
+node	357734685	Lake Parsippany Dyke Number One
+node	357734689	Lake Parsippany Dam
+node	357734692	Eden Mill Dam
+node	357734710	Davidsons Millpond Dam
+node	357734716	Farrington Dam
+node	357734720	Westons Mill Pond Dam
+node	357734730	Helmetta Dam
+node	357734777	Hanks Pond Dam
+node	357734780	Clinton Reservoir Dam
+node	357734784	Nosenzo Pond Dam
+node	357734786	Echo Lake Spillway Dam
+node	357734932	Lake Tappan Dam
+node	357734940	Verona Lake Dam
+node	357734951	Woodcliff Lake Dam
+node	357734965	Rambaut Dam
+node	357734970	Maple Lake Dam
+node	357735025	Milton Lake Dam
+node	357735029	Middlesex Reservoir Dam
+node	357735033	Roosevelt Park Dam
+node	357735086	Middlesex Milling Dam
+node	357735100	Lower Kakeout Dam
+node	357735103	Surprise Lake Dam
+node	357735110	Fayson Lakes Lower Dam
+node	357735113	West Lake Dam;West Lake
+node	357735120	East Lake Dam
+node	357735124	Kakeout Dam
+node	357735214	Bear Swamp Lake Dam
+node	357735217	MacMillan Reservoir Dam
+node	357735263	Briant Park Dam
+node	357735266	Campbells Pond Dam
+node	357735270	Jacksons Pond Dam
+node	357735280	Bloodgoods Pond Dam
+node	357735347	Duhernal Dam
+node	357735352	Tennent Brook Dam
+node	357735437	Bear Swamp Lake Dam Two
+node	357735440	Bear Swamp Lake Dam One
+node	357735446	Gordon Lakes Dam
+node	357735450	Upper Mount Glen Lake Dam
+node	357735476	Lake Erskine Dam
+node	357735648	Jaqui Dam
+node	357748461	Forest View Boat Basin (historical)
+node	359273976	Mianus Filter Plant Dam
+node	359273982	Putnam Reservoir Dam
+node	359273985	Pemberwick Dam
+node	359273991	American Felt Dam
+node	359274002	Mianus River Pond Dam
+node	359274055	Chasmars Pond Dam
+node	359276082	Wooley Pond Dam
+node	359276085	Indian Spring Pond Dam
+node	359276114	Spahn Pond Dam
+node	359276827	Fyre Lake Dam
+node	359277132	West Fork Pond Dam
+node	1721347770	Surprise Lake Dam
+node	2601625591	Claypit Creek
+node	2669603704	Swimming Hole
+node	2702624948	Seeleys Pond Dam
+way	8966129	Ramapo River
+way	9223721	Mill River
+way	11313393	Bronx River
+way	22692220	Carlls River
+way	22703098	Passaic River
+way	25198744	Gowanus Canal
+way	25198767	Gowanus Canal
+way	27336028	Delaware and Raritan Canal
+way	27336174	Delaware and Raritan Canal
+way	30428612	Smith Pond
+way	30432140	Alley Creek
+way	30471584	Mill River
+way	31464483	Raritan River
+way	31824598	Hackensack River
+way	32072626	Sparkill Creek
+way	35024897	Great Fresh Kills
+way	35024899	Richmond Creek
+way	37810100	Blind Brook
+way	37810103	Blind Brook
+way	37860725	Blind Brook
+way	39641130	High Crest Lake
+way	39641485	Passaic River
+way	39831390	Peckman River
+way	39928143	Ramsey Brook
+way	39929000	Ramsey Brook
+way	39929001	Ramsey Brook
+way	39931989	Masonicus Brook
+way	39931991	Masonicus Brook
+way	39932412	Ramapo Brook
+way	39932413	Ramapo Brook
+way	39932414	Ramapo Brook
+way	39932415	Ramapo Brook
+way	39977306	Ramapo River
+way	41915315	Charlotteburg Reservoir
+way	43153524	Sprout Brook
+way	43403560	East Branch Byram River
+way	43403591	Rockwood Lake Brook
+way	43403619	Byram River
+way	43403668	East Branch Byram River
+way	43403708	Rockwood Lake Brook
+way	43403793	Greenwich Creek
+way	43403818	Greenwich Creek
+way	43403909	Rockwood Lake Brook
+way	43403912	Noroton River
+way	43403932	Byram River
+way	43403937	Horseneck Brook
+way	43403941	Mianus River
+way	43403972	Noroton River
+way	43404033	Stony Brook
+way	43404067	Stony Brook
+way	43404131	Byram River
+way	43404136	Brothers Brook
+way	43404187	Goodwives River
+way	43404190	Springdale Brook
+way	43404269	Greenwich Creek
+way	43404341	Fivemile River
+way	43404637	Converse Pond Brook
+way	43404749	Converse Pond Brook
+way	43404763	Converse Pond Brook
+way	43405002	Byram River
+way	43405026	Brothers Brook
+way	43405066	Greenwich Creek
+way	43405089	Horseneck Brook
+way	43405108	East Branch Byram River
+way	43405170	Mianus River
+way	43405267	Greenwich Creek
+way	43405271	Rippowam River
+way	43405287	Fivemile River
+way	43405302	Greenwich Creek
+way	43405378	Brothers Brook
+way	43405430	Horseneck Brook
+way	43405442	Greenwich Creek
+way	43405488	Noroton River
+way	43405550	Byram River
+way	43405638	Horseneck Brook
+way	43405640	Greenwich Creek
+way	43405642	Mianus River
+way	43405650	Rockwood Lake Brook
+way	43405697	Rippowam River
+way	43405724	Byram River
+way	43405725	Horseneck Brook
+way	43405775	Byram River
+way	43405788	Keelers Brook
+way	43405791	Byram River
+way	43405803	Stony Brook
+way	43405866	Rippowam River
+way	43405894	Greenwich Creek
+way	43405916	East Branch Byram River
+way	43405925	Stony Brook
+way	43405939	Fivemile River
+way	43405944	Mianus River
+way	43406017	Brothers Brook
+way	43406034	Greenwich Creek
+way	43406079	Converse Pond Brook
+way	43406141	Noroton River
+way	43406142	Byram River
+way	44939212	Dundee Dam
+way	45760740	Rahway River
+way	45760746	Maple Falls Cascades
+way	45760757	Rahway River
+way	45760766	Rahway River
+way	45760767	Beech Brook Cascades
+way	45760785	Rahway River
+way	48233127	Goffle Brook
+way	48250976	Goffle Brook
+way	48287155	Goffle Brook
+way	48578427	Saw Mill River
+way	49607674	Cedar Swamp Creek
+way	52631856	Third River
+way	55054932	Pequannock River
+way	55055379	Clinton Brook
+way	56070100	Kensico Dam
+way	70802195	Alley Creek
+way	74899753	Saw Mill River
+way	75077920	Saw Mill River
+way	75077924	Saw Mill River
+way	75077925	Saw Mill River
+way	75077926	Saw Mill River
+way	75077927	Saw Mill River
+way	75083085	Saw Mill River
+way	75083086	Saw Mill River
+way	75083089	Saw Mill River
+way	75322028	Saw Mill River
+way	75888499	Bronx River
+way	76651171	Bronx River
+way	76985000	Bronx River
+way	84954734	Pascack Brook
+way	84954735	Pascack Brook
+way	84954742	Pascack Brook
+way	85462325	Ramapo Brook
+way	112390478	Rahway River West Branch
+way	121607950	Sparrowbush Brook
+way	121607954	West Branch Saddle River
+way	121607962	East Branch Saddle River
+way	121614958	Kroner's Brook
+way	121614963	Pleasant Brook
+way	121614971	Saddle River
+way	123047166	Sheepshead Bay
+way	123047167	Marine Park Creek
+way	123047168	Plumb Beach Channel
+way	123047169	Mill Basin
+way	123047170	Mill Creek
+way	123047171	Shell Bank Creek
+way	129271588	Sparkill Brook
+way	129728576	North Memorial Void
+way	129728578	South Memorial Void
+way	129810419	Rockaway River
+way	131675374	Ramapo River
+way	131916467	Droyers Point Reach Hackensack River
+way	131916468	Berrys Creek Canal
+way	131916470	South Reach Newark Bay
+way	131916472	Hackensack River
+way	135951406	Whale Creek
+way	137635358	Sawyers Ditch
+way	142778635	Marion Reach Hackensack River
+way	142778636	Middle Reach Newark Bay
+way	142778637	North Reach Newark Bay
+way	142778638	Berrys Creek
+way	142778639	Port Newark Channel
+way	142778640	Harrison Reach Passaic River
+way	142778641	Elizabeth Channel
+way	142778643	Kearny Point Reach Passaic River
+way	142778644	Hackensack River
+way	142778645	Sawmill Creek
+way	142778646	Kingsland Creek
+way	142778647	Passaic River
+way	142804074	Mill Creek
+way	142804075	Moonachie Creek
+way	142804076	Doctor Creek
+way	142804077	Overpeck Creek
+way	142804078	Losen Slofe
+way	142804081	Bashes Creek
+way	142804084	Cromakill Creek
+way	142804091	Bellmans Creek
+way	142807217	South of Shooters Island Reach
+way	142807218	Greenville Channel
+way	142807219	Claremont Terminal Channel
+way	142807220	Bergen Point East Reach Kill van Kull
+way	142807223	Constable Hook Reach Kill van Kull
+way	142807224	Bergen Point West Reach Kill van Kull
+way	142807225	North of Shooters Island Reach
+way	142987468	Red Hook Channel
+way	142987469	Bay Ridge Channel
+way	142987470	Gowanus Canal
+way	142987471	The Narrows
+way	144772010	Elizabeth River
+way	144772015	Old Place Creek
+way	144772018	Pralls Creek
+way	144772023	Elizabeth River
+way	144772024	Gulfport Reach Arthur Kill
+way	144772028	Pralls Island Reach Arthur Kill
+way	145787288	Hudson River
+way	150259498	Allendale Brook
+way	150259503	Ho-Ho-Kus Brook
+way	150259505	Spring Lake Brook
+way	151302571	Flushing Creek
+way	156729274	Saddle River
+way	160065114	Blue Brook
+way	164250696	Hudson River
+way	166550753	Ambrose Brook
+way	191446255	Otter Creek
+way	197324852	Cedar Brook
+way	198253881	Sheldrake River
+way	198253883	Sheldrake River
+way	198703123	Hop Brook
+way	198703127	Hop Brook
+way	200882624	Blind Brook
+way	200882634	Blind Brook
+way	203009495	Mill Creek
+way	203009496	Mill Creek
+way	205207180	Rahway River South Branch
+way	205219655	Heards Brook
+way	205219660	Heards Brook
+way	206042825	Rahway River South Branch
+way	206931173	MacMillan Brook
+way	207186804	Raritan River, South Branch
+way	207186805	Raritan River, South Branch
+way	207186809	Rahway River South Branch
+way	207279705	Rahway River South Branch
+way	207279711	Rahway River South Branch
+way	207279713	Rahway River South Branch
+way	207279714	Rahway River South Branch
+way	207834348	Sheldrake River
+way	207834349	Sheldrake River
+way	209296499	Parsonal Creek
+way	217624636	Matawan Creek
+way	217821085	Silver Brook
+way	218287660	Milburn Creek
+way	219037470	Blind Brook
+way	219037471	Blind Brook
+way	219037472	Blind Brook
+way	219037473	Blind Brook
+way	219796514	Blind Brook
+way	219796515	Blind Brook
+way	220141841	Flushing Creek
+way	220141843	Flushing Creek
+way	220398785	Third River
+way	220406916	Third River
+way	220407353	Third River
+way	220821554	Frank Creek
+way	220821555	Frank Creek
+way	220821557	Frank Creek
+way	220821563	Frank Creek
+way	220821565	Frank Creek
+way	220821566	Frank Creek
+way	220821569	Frank Creek
+way	220821571	Frank Creek
+way	221294446	Second River
+way	221294451	Second River
+way	221294457	Second River
+way	221294999	Second River
+way	221295000	Second River
+way	221298978	Frank Creek
+way	221553639	Berrys Creek
+way	221553640	Berrys Creek
+way	221553644	Berrys Creek
+way	221915354	Whippany River
+way	221915389	Whippany River
+way	221918573	Whippany River
+way	221919549	Whippany River
+way	221919550	Whippany River
+way	223156453	Goodwives River
+way	223156461	Goodwives River
+way	223156462	Goodwives River
+way	223156463	Stony Brook
+way	223156464	Fivemile River
+way	223156477	Stony Brook
+way	223156478	Fivemile River
+way	223156481	Goodwives River
+way	228769806	Acid Brook
+way	228772647	Pompton Lake Flood Gates
+way	229092667	Byram River
+way	229361970	Acid Brook
+way	229362011	Posts Brook
+way	229362012	Twin Lake Dam
+way	229362013	Posts Brook
+way	229362015	Posts Brook
+way	230041853	Dowling Brook
+way	230041854	Dowling Brook
+way	230041867	Third River
+way	231658498	Dowling Brook
+way	231658507	Great Notch Brook
+way	231658519	Peckman River
+way	232941376	Sparkill Creek
+way	232941392	Sparkill Creek
+way	233466770	Valley Stream
+way	233466771	Valley Stream
+way	233466772	Valley Stream
+way	233466773	Valley Stream
+way	233466774	Valley Stream
+way	233466776	Valley Stream
+way	233466777	Valley Stream
+way	233466778	Valley Stream
+way	233466780	Valley Stream
+way	233466781	Valley Stream
+way	233466782	Valley Stream
+way	233466783	Valley Stream
+way	233466784	Valley Stream
+way	233466785	Valley Stream
+way	237055748	Saddle River
+way	237055749	Saddle River
+way	237055750	Hohokus Brook
+way	238198117	Nissequogue River
+way	238491081	Carlls River
+way	238579489	Massapequa Creek
+way	238579490	Massapequa Creek
+way	238579491	Massapequa Creek
+way	238579492	Massapequa Creek
+way	238581320	Cedar Swamp Creek
+way	238581321	Cedar Swamp Creek
+way	238581322	Cedar Swamp Creek
+way	238816522	Mill River
+way	238816523	Parsonage Creek
+way	238816524	Parsonage Creek
+way	238816525	Parsonal Creek
+way	238816526	Powell Creek
+way	238914175	Little Fresh Kills
+way	238914178	Main Creek
+way	238914579	Westchester Creek
+way	238914749	Wickers Creek
+way	238915334	Pocantico River
+way	238915335	Pocantico River
+way	239029219	Saddle River
+way	239029220	Saddle RIver
+way	239029755	Hohokus Brook
+way	239029761	Hohokus Brook
+way	239029766	Hohokus Brook
+way	239029888	Hohokus Brook
+way	239030965	Saddle River
+way	239030967	Saddle River
+way	239031057	Saddle River
+way	239071836	Beaver Brook
+way	239073929	Sprout Brook
+way	239073930	Sprout Brook
+way	239081052	Sprout Brook
+way	239081056	Sprout Brook
+way	239083587	Sprout Brook
+way	239118310	Saddle River
+way	239118316	Saddle River
+way	241412105	Green Brook
+way	242169475	Ambrose Brook
+way	242169483	Ambrose Brook
+way	242169485	Ambrose Brook
+way	243356108	Acid Brook
+way	243356109	Acid Brook
+way	243356110	Acid Brook
+way	243356111	Acid Brook
+way	244588721	Blind Brook
+way	244765649	Salt Brook
+way	244779520	Pompton Lakes Dam
+way	244977991	Salt Brook
+way	244977992	Salt Brook
+way	245101164	Black Brook
+way	245103899	Cory's Brook
+way	245148179	Point View Dam
+way	245870200	Salt Brook
+way	245870201	Salt Brook
+way	245870204	Salt Brook
+way	245870205	Salt Brook
+way	245870206	Salt Brook
+way	245870207	Salt Brook
+way	245870208	Salt Brook
+way	245870210	Salt Brook
+way	245870211	Salt Brook
+way	245870212	Salt Brook
+way	245885601	Irish Brook Dam
+way	245885607	Morse Lake Dam
+way	245885615	Post Brook Dam
+way	245885616	Posts Brook
+way	245889701	Posts Brook
+way	245921206	Raymond Dam
+way	245921209	Wolf Den Dam
+way	245921211	Great Swamp Dam
+way	245921214	Midvale Dam
+way	245924609	Sparkill Creek
+way	245924611	Sparkill Creek
+way	245924613	Sparkill Creek
+way	245924616	Sparkill Creek
+way	245924618	Sparkill Creek
+way	245924647	Sparkill Creek
+way	245989993	Passaic River
+way	245991616	Pompton River
+way	245994440	Passaic River
+way	245994441	Passaic River
+way	245994442	Passaic River
+way	246063596	Pompton River
+way	246063597	Pompton River
+way	246063598	Pompton River
+way	246063599	Pompton River
+way	246224871	Signac Brook
+way	246693034	Pines Lake Dam
+way	246700269	Wanaque River
+way	246700277	Pequannock River
+way	246700278	Ramapo River
+way	246887509	Green Brook
+way	246912691	Beaver Brook
+way	246912693	Beaver Brook
+way	246912694	Glen Wild Lake Dam
+way	246912695	Irish Brook
+way	247141454	Great Notch Reservoir Dam
+way	247145136	Blue Brook
+way	247145139	Blue Brook
+way	247145141	Blue Brook
+way	247145143	Blue Brook
+way	247145146	Blue Brook
+way	247145148	Blue Brook
+way	247145150	Briant Brook
+way	247145151	Briant Brook
+way	247145153	Briant Brook
+way	247145155	Briant Brook
+way	247145157	Briant Brook
+way	247250695	Nomahegan Brook
+way	247276342	Rahway River
+way	249484343	Crystal Lake Dam
+way	249484346	Ramapo Lake Dam
+way	250476443	Tail Raceway
+way	250476445	Raceway
+way	250476447	S.U.M. Dam
+way	250476448	Upper Raceway
+way	250476451	Raceway
+way	250476453	Lower Raceway
+way	252267968	Noroton River
+way	252267976	Noroton River
+way	253423247	Cory's Brook
+way	253509417	Dowling Brook
+way	254033821	Shrewsbury River
+way	254033833	Navesink River
+way	255480869	Great Notch Brook
+way	256085065	Rahway River East Branch
+way	257423267	Rockaway River
+way	257427583	Whippany River
+way	258847255	Hudson River
+way	258998765	Cayuga Dike
+way	260669028	Raceway
+way	260669029	Middle Raceway
+way	260669031	Lower Raceway
+way	261143478	Acid Brook
+way	261143479	Acid Brook
+way	261270053	Salt Brook
+way	261331183	Great Falls
+way	261875599	Little Pond Brook
+way	262289521	Packanack Brook
+way	262289522	Packanack Brook
+way	262289523	Packanack Brook
+way	262467258	Preakness Brook
+way	262467271	Preakness Brook
+way	262467274	Preakness Brook
+way	264604189	Blue Brook
+way	264604194	Salt Brook
+way	267594491	Third River
+way	268418169	Rockaway River
+way	268418189	Sawmill Pond Dam
+way	268418190	Untermeyer Dam
+way	268418194	East Ditch
+way	268612622	Rahway River
+way	268612623	Rahway River
+way	268673706	Rahway River
+way	271122475	Heards Brook
+way	271122492	Heards Brook
+way	271122494	Heards Brook
+way	271366301	Packanack Lake Dam
+way	271366302	Packanack Brook
+way	271366303	Packanack Brook
+way	271366304	Packanack Brook
+way	272698726	Ho-Ho-Kus Brook
+way	272699124	Ho-Ho-Kus Brook
+way	272699703	Ho-Ho-Kus Brook
+way	273358505	Wissachicken Brook
+way	273757272	Naachpunkt Brook
+way	275092516	Morris Canal
+way	275265846	Pearl Brook
+way	275265848	Pearl Brook
+way	275265849	Pearl Brook
+way	275307694	Slippery Rock Brook
+way	275315223	Highland Lake Dam
+way	275315224	Slippery Rock Brook
+way	275602217	Irish Brook
+way	275604798	Irish Brook
+way	275765477	Stone House Brook
+way	275858625	Stone House Brook
+way	275862696	Winnebago Lake Dam
+way	276145880	Stone House Brook
+way	276423645	Terrace Lake Dam
+way	276625784	Cold Spring Lake Dam
+way	276639550	Star Lake Dam
+way	276663399	Kinnelon Dam
+way	277909109	Third River
+way	277909120	Third River
+way	277909121	Third River
+way	277909123	Third River
+way	277909124	Third River
+way	277909126	Third River
+way	277909127	Third River
+way	277909130	Third River
+way	277909132	Third River
+way	277909133	Third River
+way	277915556	Morris Canal
+way	278383877	Pond Brook
+way	278383879	Pond Brook
+way	278383880	Pond Brook
+way	278383881	Pond Brook
+way	278383883	Pond Brook
+way	281748268	Jordan Brook
+way	281837534	Third River
+way	281837535	Third River
+way	281837536	Third River
+way	281837537	Third River
+way	281848772	Rahway River East Branch
+way	281848773	Rahway River East Branch
+way	281848776	Rahway River East Branch
+way	281848777	Rahway River East Branch
+way	281875116	Rahway River East Branch
+way	281875117	Rahway River East Branch
+way	281875118	Rahway River East Branch
+way	283417238	Whippany River
+way	283417239	Whippany River
+way	284840857	Silver Brook
+way	284884394	Loantaka Brook
+way	284884395	Loantaka Brook
+way	284889180	Great Brook
+way	284890134	Great Brook
+way	285235336	Loantaka Brook
+way	285235337	Loantaka Brook
+way	285235338	Loantaka Brook
+way	285235339	Loantaka Brook
+way	285235341	Loantaka Brook
+way	285235342	Loantaka Brook
+way	287524039	Great Notch Brook
+way	287524040	Great Notch Brook
+way	287524041	Great Notch Brook
+way	287524042	Great Notch Brook
+way	287524043	Great Notch Brook
+way	287524044	Great Notch Brook
+way	287524045	Great Notch Brook
+way	287524046	Great Notch Brook
+way	287524047	Great Notch Brook
+way	287524048	Great Notch Brook
+way	287715904	Ramapo Brook
+way	287715905	Ramapo Brook
+way	287718499	Ramapo Brook
+way	287718500	Ramapo Brook
+way	287718501	Ramapo Brook
+way	287718502	Ramapo Brook
+way	287718503	Ramapo Brook
+way	287718504	Ramapo Brook
+way	287718505	Ramapo Brook
+way	292448026	Seasonal drainage stream
+way	294257509	Powerville Dam
+way	294783119	Mill River
+way	294783125	Shell Harbor
+way	294783154	California Canal
+way	294783160	Mill River
+way	294783172	Mill River
+way	294783221	The Lagoon
+way	294783222	Mill River
+way	294783237	Mill River
+way	296070991	Matawan Creek
+way	296070993	Matawan Creek
+way	297066497	Washington Canal
+way	297066500	South River
+way	297085070	Burt Creek
+way	297085071	Burt Creek
+way	297085074	Burt Creek
+way	297085075	Burt Creek
+way	297110576	Woodbridge Creek
+way	297120326	Morses Creek
+way	297124735	Piles Creek
+way	297132850	Deep Run
+way	297132992	Tennent Brook
+way	297840410	Red Root Creek
+way	297840411	Red Root Creek
+way	297840413	Red Root Creek
+way	297840414	Red Root Creek
+way	297840415	Crows Mill Creek
+way	297840417	Red Root Creek
+way	298017361	Crows Mill Creek
+way	298017367	Crows Mill Creek
+way	300334486	Blind Brook
+way	300503326	Rahway River
+way	300994099	Black Ditch
+way	300994101	Black Ditch
+way	300994109	Black Ditch
+way	300994112	Black Ditch
+way	300994116	Black Ditch
+way	300994119	Black Ditch
+way	300994120	Black Ditch
+way	300994122	Black Ditch
+way	300994124	Black Ditch
+way	300994125	Black Ditch
+way	300996597	Compton Creek
+way	301018600	Waackaack Creek
+way	301018614	Thorns Creek
+way	301019893	Flat Creek
+way	301019895	East Creek
+way	301019898	Chingarora Creek
+way	301020333	Lapattatong Creek
+way	301020339	Wilkson Creek
+way	301020344	Wilkson Creek
+way	301020345	Wilkson Creek
+way	301020347	Wilkson Creek
+way	301020618	Lupattatong Creek
+way	301020621	Lapattatong Creek
+way	305615322	Pequannock River
+way	305908634	White Meadow Brook
+way	306473710	Beaver Brook
+way	306473719	Stone House Brook
+way	306473720	Stone House Brook
+way	307859707	Bound Brook
+way	310927756	Goffle Brook
+way	310927771	Goffle Brook
+way	311211833	Riser Ditch
+way	311211834	Riser Ditch
+way	311998665	Bronx River
+way	311998666	Bronx River
+way	311998667	Bronx River
+way	311998668	Bronx River
+way	317189781	Haledon Reservoir Dam
+way	318466663	Saw Mill River
+way	318466664	Saw Mill River
+way	319902603	Smiths Creek
+way	319902626	Smiths Creek
+way	319902632	Smiths Creek
+way	321241647	Morris Canal
+way	321241648	Morris Canal
+way	321241655	Morris Canal
+way	321241659	Morris Canal
+way	322315940	Spring Creek
+way	322315943	Spring Creek
+way	322315944	Spring Creek
+way	322315945	Spring Creek
+way	322315947	Spring Creek
+way	322315949	Spring Creek
+way	328808845	Second River
+way	331151746	Kayaking Area
