@@ -122,11 +122,11 @@ node	357548563	Beverly Hill School
 node	357549033	Birch Lane Elementary School
 node	357549044	Birch School
 node	357549053	Birchwood Intermediate School
-node	357549393	Blessed Sacrament St. Gabriel High School
 node	357549368	Blessed Sacrament Cemetery
+node	357549372	Blessed Sacrament School
+node	357549393	Blessed Sacrament St. Gabriel High School
 node	357549490	Bloomingdale School
 node	357549677	Blythedale Childrens Hospital
-node	357549372	Blessed Sacrament School
 node	357549695	Boardman School
 node	357549890	Boulevard Hospital
 node	357549928	Edward W Bower School
@@ -3973,6 +3973,7 @@ node	357649955	Roman Catholic Church of Our Lady of Good Counsel
 node	357649957	Our Lady of Good Counsel Parochial School
 node	357649964	Saint Paul's Methodist Protestant Church (historical)
 node	357649966	Community Bible Church
+node	357649969	Hewlett Medical Center
 node	357649972	Saint Josephs Parochial School
 node	357649974	Congregation Shaaray Tefila
 node	357649977	Jewish Community Center of Inwood
@@ -3984,7 +3985,6 @@ node	357649993	Bethesda Elementary School
 node	357649996	New Jerusalem Christian Academy
 node	357649999	Torah Academy of Lawrence
 node	357650003	Hebrew Academy-Senior High School
-node	357649969	Hewlett Medical Center
 node	357650014	All Hallows School (historical)
 node	357650837	Laboratory Institute of Merchandising
 node	357650840	School of American Ballet
@@ -6909,8 +6909,8 @@ node	357746581	Hoboken Catholic Academy
 node	357746584	Rue School (historical)
 node	357746589	Calabro Primary School
 node	357746594	Hudson School
-node	357746604	Sacred Heart of Jesus School
 node	357746599	Mustard Seed School
+node	357746604	Sacred Heart of Jesus School
 node	357746607	Irvington Post Office
 node	357746621	Heart of Mary Convent
 node	357746624	Immaculate Conception Convent
@@ -8108,8 +8108,8 @@ node	368047917	New York Ladder Company 124
 node	368047920	New York Ladder Company 123
 node	368047924	New York Ladder Company 149
 node	368047929	New York Ladder Company 148
-node	368047932	New York Ladder Company 147
 node	368047937	New York Ladder Company 146
+node	368047932	New York Ladder Company 147
 node	368047942	New York Ladder Company 159
 node	368047945	New York Ladder Company 157
 node	368047949	New York Ladder Company 156
@@ -8475,8 +8475,8 @@ node	502803968	Dunkin Donuts
 node	502834071	Duane Reade
 node	504041039	Willow Place Chapel
 node	505575853	Roselle Fire Department
-node	505580186	Wendy's
 node	505577099	Roselle Police Department
+node	505580186	Wendy's
 node	505637127	Clark Police Department
 node	513696005	Walt Street Pub
 node	513703486	Adventures on Wheels
@@ -9199,8 +9199,8 @@ node	1383943657	AQ Kafe
 node	1383947223	Chase
 node	1383947617	Capital One
 node	1383948101	Bank of America
-node	1383951544	HSBC
 node	1383952106	Pax
+node	1383951544	HSBC
 node	1383954690	Starbucks
 node	1383955011	Cafe Metro
 node	1383955419	Lili's 57
@@ -9725,8 +9725,8 @@ node	1821015959	City Diner
 node	1821015964	Ollie's To Go
 node	1821015965	The Parlour
 node	1821015975	5 Napkin Burger
-node	1824995167	American Grill
 node	1824995168	Bakery Cafe
+node	1824995167	American Grill
 node	1824995169	Staten Island ferry
 node	1825739830	Ayza Wine & Chocolate Bar
 node	1825739837	Philip Marie
@@ -9910,8 +9910,8 @@ node	1937573342	Dunkin' Donuts
 node	1937573344	Noah's Bagels
 node	1937573345	Subway
 node	1937573346	Bellavaria Pizzeria
-node	1937582678	Szechuan Delight
 node	1937578183	Coppola Restaurant and Pizzeria
+node	1937582678	Szechuan Delight
 node	1937582686	Tables for Two
 node	1937582687	Zita's Homemade Ice Cream
 node	1937582688	New Providence Post Office
@@ -12317,8 +12317,8 @@ node	2809713454	Public School 86
 node	2809777824	Butler Post Office
 node	2809781613	Bedford Park Presbyterian Church
 node	2809868450	Public School 8
-node	2809893485	Butler Veternary Hospital
 node	2809893472	Rita's Italian Ice
+node	2809893485	Butler Veternary Hospital
 node	2809904792	North Bronx Islamic Center
 node	2809931619	Public School 56
 node	2809988042	Bloomingdale Police Department

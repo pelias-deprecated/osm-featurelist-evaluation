@@ -94,9 +94,9 @@ node	274749567	Clinton-Washington
 node	276018599	Mets-Willets Point (LIRR)
 node	276092543	Flushing Main Street (LIRR)
 node	276208919	Broadway (N,Q)
+node	276208995	30th Avenue (N,Q)
 node	276209401	Astoria Boulevard (N,Q)
 node	276209435	Astoria-Ditmars Boulevard (N,Q)
-node	276208995	30th Avenue (N,Q)
 node	276233001	Woodside (LIRR)
 node	276233212	61st Street-Woodside Avenue (7)
 node	276319410	Long Island City
@@ -1259,8 +1259,8 @@ way	11667065	Reformatory Extension
 way	11667155	Carteret Extension
 way	11669928	Peter J. Sica Industrial Highway
 way	11673544	Reading Road
-way	11683175	Henry Hudson Bike Trail
 way	11683171	Freehold and Atlantic Highlands Branch
+way	11683175	Henry Hudson Bike Trail
 way	11687574	New York, Susquehanna and Western Railway
 way	11697968	US Government Railroad
 way	11702247	Morristown and Erie Railway
@@ -1423,8 +1423,8 @@ way	29458617	Oyster Bay Branch
 way	29462695	Oyster Bay Branch
 way	29462730	Oyster Bay Branch
 way	29462732	Oyster Bay Branch
-way	29462894	Oyster Bay Branch
 way	29463142	Oyster Bay Branch
+way	29462894	Oyster Bay Branch
 way	29463143	Oyster Bay Branch
 way	29464814	Oyster Bay Branch
 way	29464816	Oyster Bay Branch
@@ -1620,8 +1620,9 @@ way	46340215	IND Fulton Street Line
 way	46340225	IND Fulton Street Line
 way	46340226	IND Queens Boulevard Line
 way	46340228	BMT Broadway Line
-way	46340237	Manhattan Bridge subway tracks
 way	46340231	IND Queens Boulevard Line
+way	46340235	BMT Nassau Street Line
+way	46340237	Manhattan Bridge subway tracks
 way	46340238	Manhattan Bridge subway tracks
 way	46340240	Chrystie Street Connection
 way	46340241	IND Culver Line
@@ -1630,7 +1631,6 @@ way	46340245	Chrystie Street Connection
 way	46340246	IND Sixth Avenue Line
 way	46340250	BMT Broadway Line
 way	46340251	IND Queens Boulevard Line
-way	46340235	BMT Nassau Street Line
 way	46340252	IND 63rd Street Line
 way	46340253	PATH
 way	46340255	IRT Flushing Line
@@ -1882,9 +1882,9 @@ way	46770559	New York and Flushing Railroad
 way	46772627	VD East Lead
 way	46772723	Atlantic Branch
 way	46774536	Atlantic Branch
-way	46774551	Atlantic Branch
 way	46774564	BMT Franklin Avenue Line
 way	46774565	BMT Franklin Avenue Line
+way	46774551	Atlantic Branch
 way	46777169	Atlantic Branch
 way	46777178	Atlantic Branch
 way	46781484	Bay Ridge Branch
@@ -3602,8 +3602,8 @@ way	108848246	East New York Yard
 way	108848247	East New York Yard
 way	108848248	East New York Yard
 way	108848249	BMT Fulton Street Elevated
-way	108848250	East New York Yard
 way	108848251	Yard Leads
+way	108848250	East New York Yard
 way	108848252	BMT Fulton Street Elevated
 way	108848253	East New York Yard
 way	108848254	East New York Yard
@@ -4338,6 +4338,7 @@ way	149844644	Northeast Corridor
 way	149844646	Northeast Corridor
 way	149844648	Northeast Corridor
 way	149844651	Northeast Corridor
+way	149844652	Northeast Corridor
 way	149844657	Northeast Corridor
 way	149844658	Northeast Corridor
 way	149844659	Northeast Corridor
@@ -4390,7 +4391,6 @@ way	149886692	Northeast Corridor
 way	149886694	Northeast Corridor
 way	149886696	Northeast Corridor
 way	149886697	Northeast Corridor
-way	149844652	Northeast Corridor
 way	149886700	Northeast Corridor
 way	149886702	Northeast Corridor
 way	149886705	Northeast Corridor
@@ -4433,9 +4433,9 @@ way	149931645	Northeast Corridor
 way	149931646	Northeast Corridor
 way	149931647	Northeast Corridor
 way	149931648	Northeast Corridor
+way	149931657	Northeast Corridor
 way	149931663	Northeast Corridor
 way	149931674	Northeast Corridor
-way	149931657	Northeast Corridor
 way	149931683	Northeast Corridor
 way	149931684	Northeast Corridor
 way	149931686	Northeast Corridor
@@ -5927,12 +5927,12 @@ way	247955471	Main Line
 way	247955472	Main Line
 way	247955473	Main Line
 way	247955476	Port Washington Branch
-way	247955477	Port Washington Branch
-way	247955478	Port Washington Branch
-way	247955479	Port Washington Branch
 way	247955480	Port Washington Branch
 way	247955481	Port Washington Branch
+way	247955477	Port Washington Branch
+way	247955478	Port Washington Branch
 way	247955483	Port Washington Branch
+way	247955479	Port Washington Branch
 way	247955484	Port Washington Branch
 way	247955485	Port Washington Branch
 way	247955486	Port Washington Branch
